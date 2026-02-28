@@ -1,4 +1,4 @@
-#Task 3 : Multi-Cloud Architecture using AWS and Vercel
+# Task 3 : Multi-Cloud Architecture using AWS and Vercel
 
 📌 Objective
 To design and implement a multi-cloud architecture where application services are distributed across two cloud platforms and demonstrate interoperability between them.
